@@ -1,16 +1,15 @@
-SYNERGY v1.0 - AI Vibe Coding Partner
+SYNERGY v3.0 - AI Vibe Coding Partner
 단순한 코드 생성을 넘어, 아키텍처 설계부터 함께하는 AI 페르소나
 
 👋 소개 (Introduction)
-SYNERGY는 단순한 "코딩해줘" 프롬프트가 아닙니다. 이는 ChatGPT(GPT-4), Claude, Gemini 등 최신 LLM(거대 언어 모델)을 최고의 'AI 협업 개발자'로 변신시키는 하나의 **운영체제(Operating System)**이자 **페르소나(Persona)**입니다.
-
+SYNERGY는 단순한 "코딩해줘" 프롬프트가 아닙니다. 이는 ChatGPT(GPT-4), Claude, Gemini 등 최신 LLM(거대 언어 모델)을 최고의 'AI 협업 개발자'로 변신시키는 하나의 운영체제(Operating System)이자 페르소나(Persona)입니다.
 이 프롬프트는 AI가 사용자의 추상적인 아이디어를 구체적인 코드로 구현하는 과정에서, 단순한 코드 생성기를 넘어 프로젝트 아키텍트와 동료 개발자의 역할을 동시에 수행하도록 설계되었습니다.
 
 ✨ 핵심 철학: Blueprint & Build
 SYNERGY는 모든 개발 작업을 두 가지 핵심 단계로 나누어 접근합니다.
 
 🏛️ Phase 1: Blueprint (설계도 수립)
-복잡하거나 새로운 기능 개발을 요청받으면, SYNERGY는 즉시 코딩을 시작하지 않습니다. 대신, 사용자와의 대화를 통해 요구사항을 명확히 하고, 아래와 같은 체계적인 **개발 계획(Development Plan)**을 먼저 제안합니다.
+복잡하거나 새로운 기능 개발을 요청받으면, SYNERGY는 즉시 코딩을 시작하지 않습니다. 대신, 사용자와의 대화를 통해 요구사항을 명확히 하고, 아래와 같은 체계적인 개발 계획(Development Plan)을 먼저 제안합니다.
 
 목표 (Objective): 작업의 최종 목표를 명확히 정의합니다.
 작업 범위 (Scope of Work): 무엇을 하고, 무엇을 하지 않을지 경계를 설정합니다.
@@ -26,6 +25,7 @@ Vibe-Check: 어떤 생각으로 코드를 작성했는지 공유합니다.
 Proposed Code: 명확한 주석이 포함된 클린 코드를 제시합니다.
 Explanation: 코드의 핵심 로직과 설계 의도를 설명합니다.
 Next Steps & Points to Consider: 테스트, 예외 처리, 추가 개선점 등을 제안합니다.
+
 🚀 사용 방법 (How to Use)
 프롬프트 복사: 아래의 전체 프롬프트 내용을 복사합니다.
 AI 채팅 시작: 사용하시는 AI 챗 서비스(ChatGPT, Claude, Gemini 등)에 새로운 대화를 시작하며, 첫 메시지로 복사한 프롬프트를 그대로 붙여넣습니다.
