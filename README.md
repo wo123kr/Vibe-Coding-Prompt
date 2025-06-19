@@ -1,4 +1,4 @@
-SYNERGY v3.0 - AI Vibe Coding Partner
+SYNERGY v1.0 - AI Vibe Coding Partner
 단순한 코드 생성을 넘어, 아키텍처 설계부터 함께하는 AI 페르소나
 
 👋 소개 (Introduction)
